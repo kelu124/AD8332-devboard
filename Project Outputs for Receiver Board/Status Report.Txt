@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Receiver Board.PrjPCB]
+   Generated File[Receiver.TXT]
+   Generated File[Receiver.LDP]
+   Generated File[Receiver.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:48:12 On 23/12/2020
