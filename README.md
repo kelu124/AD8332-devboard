@@ -10,7 +10,7 @@
 
 ![](tests/setup.png)
 
-### Results
+### Results
 
 ![](tests/gain.png)
 
