@@ -14,6 +14,7 @@ More on the output filter [in here](datasheets/aa_filter_report.pdf).
 
 ![](schematics.png)
 
+On this schematics, VOH/VOL1 and VIP2/VIN2 seem inverted, but the device appears to be working as well.
 
 # Testing 
 
