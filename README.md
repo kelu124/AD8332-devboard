@@ -10,6 +10,10 @@ Changing filter components is more or less "easy". Two places contain footprints
 
 More on the output filter [in here](datasheets/aa_filter_report.pdf).
 
+# Overview
+
+![](schematics.png)
+
 
 # Testing 
 
