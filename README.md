@@ -1,10 +1,19 @@
 # AD8332-devboard
 
-![](top.jpg)
+![](tests/ad8332_test_board.jpg)
+
+
+
+Changing filter components is more or less "easy". Two places contain footprints for filters, one on the input and another on the output to the ADC.
+* The input filter has three 1206 footprints (one in serial and two in parallel to input signal). 
+* The output filter is a bit more complex (20MHz LPF) and composed out of 0603 SMD parts. Those are also easy to replace with an air solder station and tweezers.
+
+More on the output filter [in here](datasheets/aa_filter_report.pdf).
 
 
 # Testing 
 
+![](tests/batch.jpg)
 
 ### Setup
 
